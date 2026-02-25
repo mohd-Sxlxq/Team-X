@@ -75,7 +75,7 @@ Encourages safe independent livings
 
 6️)Setup Instructions(AI)
 Step 1: Clone the Repository
-git clone https://github.com/your-repository-link.git
+git clone [https://github.com/mohd-Sxlxq/Team-X]
 cd senior-safe
 Step 2: Install Dependencies
 pip install -r requirements.txt
