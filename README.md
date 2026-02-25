@@ -1,6 +1,6 @@
 # Team-X
 MIDGARD
-🏥 SENIOR SAFE
+AROGYA SETU SENIOR+
 Problem Statement ID: PS03HC
 Problem Title: 
 Team Name: Team X
