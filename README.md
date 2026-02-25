@@ -85,5 +85,3 @@ Step 4: Run Streamlit Frontend
 streamlit run app.py
 Step 5: Access Application
 
-Backend API Docs: http://127.0.0.1:8000/docs
-Streamlit UI: http://localhost:8501
