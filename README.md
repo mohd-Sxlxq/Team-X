@@ -82,6 +82,10 @@ Senior citizens
 Elderly individuals living independently
 Family members and caregivers
 
+4)voice companion 
+emotion,friendly companion to improve user experience
+Also make senior citizen not feel lonely
+
 Impact:
 Reduces medication non-compliance
 Detects health risks early
