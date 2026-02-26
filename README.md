@@ -17,7 +17,7 @@
 * Nithin HN
 * Punith Raj Naik
 
-**College:** Alva's Autonomous Degree College, Moodbidri
+
 
 ---
 
